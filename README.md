@@ -14,7 +14,7 @@ Hey there! I'm **Moses Muranja** — a passionate developer and problem solver w
 My journey spans across multiple domains: from architecting robust backend systems to crafting intuitive frontend experiences. I'm particularly drawn to projects that bridge technology with real-world impact, whether it's streamlining asset management or building scalable mobile applications.
 
 ```javascript
-const billKevinMaina = {
+const MosesMuranja = {
   location: "Nairobi, Kenya 🇰🇪",
   education: "Strathmore University - Computer Science",
   currentFocus: ["Mobile Development", "Full-Stack Engineering", "System Design"],
