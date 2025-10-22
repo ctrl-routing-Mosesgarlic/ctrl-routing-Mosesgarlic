@@ -44,12 +44,16 @@ const MosesMuranja = {
 
 ### ⚙️ Backend & Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,php,nodejs" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,php, javascript, ruby, Rust, GO,nodejs" alt="Backend Skills" />
 </p>
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" alt="Database Skills" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb, Postgres, Firebase, Superbase,sqlite" alt="Database Skills" />
+</p>
+### Scripting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=Bash" alt="Database Skills"/>
 </p>
 
 ### 🛠️ Tools & Platforms
