@@ -1,6 +1,6 @@
 <!-- WELCOME BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B;I'm+Bill+Kevin+Maina;Full-Stack+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B;I'm+Moses+Muranja;Full-Stack+Developer+%7C+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Building the future, one commit at a time</h3>
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm **Bill Kevin Maina** — a passionate developer and problem solver who thrives on turning complex challenges into elegant solutions. Currently pursuing a degree in **Computer Science** at **Strathmore University**, I specialize in **Mobile Application Development** and full-stack engineering.
+Hey there! I'm **Moses Muranja** — a passionate developer and problem solver who thrives on turning complex challenges into elegant solutions. Currently pursuing a degree in **Computer Science** at **Strathmore University**, I specialize in **Mobile Application Development** and full-stack engineering.
 
 My journey spans across multiple domains: from architecting robust backend systems to crafting intuitive frontend experiences. I'm particularly drawn to projects that bridge technology with real-world impact, whether it's streamlining asset management or building scalable mobile applications.
 
@@ -115,13 +115,13 @@ Clean, intuitive calculator with advanced mathematical operations.
   <a href="https://github.com/ctrl-routing-Mosesgarlic">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/bill-kevin-maina">
+  <a href="https://linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:billkevinmaina@example.com">
+  <a href="mailto:dr.muranja@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/billkevinmaina">
+  <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
